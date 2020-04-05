@@ -1,2 +1,2 @@
 # LeetCode-go
-LeetCode练习
+LeetCode GO语言刷题
